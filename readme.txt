@@ -8,3 +8,5 @@ Creating a new branch is quick AND simple.
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
+
+Switched to a new branch 'dev'
