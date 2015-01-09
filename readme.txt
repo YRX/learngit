@@ -11,3 +11,4 @@ Creating a new branch is quick AND simple.
 
 Switched to a new branch 'dev'
 fix a bug in stash.
+fix other bu with stash.
